@@ -24,3 +24,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 "# vuex-launchx" 
 "# vuex-launchx" 
 "# vuex-launchx" 
+"# vuex-launchx" 
